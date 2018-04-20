@@ -48,7 +48,7 @@
 
      .container {
       text-align: center;
-      margin-bottom:4%;
+      margin-bottom:3%;
       width: 100%;
     }
     .container0 {
